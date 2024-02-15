@@ -8,8 +8,8 @@ from keep_alive import keep_alive
 
 status = "online" #online/dnd/idle
 
-GUILD_ID = ADD_YOUR_SERVER_ID_HERE
-CHANNEL_ID = ADD_YOUR_CHANNEL_ID_HERE
+GUILD_ID = 1171840053652238456
+CHANNEL_ID = 1207451364754456676
 SELF_MUTE = True
 SELF_DEAF = False
 
